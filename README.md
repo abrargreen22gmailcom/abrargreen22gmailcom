@@ -62,7 +62,7 @@ A responsive recreation of Spotify's user interface using HTML and CSS.
 
 ## 🤝 Connect With Me
 
-- **LinkedIn:** Add your LinkedIn profile link here.
-- **Portfolio:** Add your portfolio link here.
-- **LeetCode:** Add your LeetCode profile link here.
-- **Resume:** Add your resume link here.
+- [**LinkedIn**](https://www.linkedin.com/in/abrar-ahamed-8a0927374/) 
+- [**Portfolio**](https://my-portfolio-w4wm.onrender.com/) 
+- [**LeetCode**](https://leetcode.com/u/ZlcOnX8r4B/)
+- [**Resume**](https://drive.google.com/file/d/1Z5JdzUanO0gzjVnwcd-Tbx9P8VA6T8j2/view?usp=sharing)
