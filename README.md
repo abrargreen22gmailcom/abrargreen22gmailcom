@@ -1,5 +1,5 @@
 
-# Hi, I'm Abrar Ahamed 👋
+# Hi👋, I'm Abrar Ahamed 
 
 ### MERN Stack Developer | Full Stack Web Developer
 
@@ -13,7 +13,7 @@
 
 📍 Based in Bengaluru, Karnataka, India.
 
-🎯 Looking for Full Stack Developer / MERN Stack Developer opportunities in Bengaluru.
+🎯 Looking for MERN Stack Developer / Full Stack Developer opportunities in Bengaluru.
 
 ---
 
@@ -56,7 +56,14 @@ A responsive recreation of Spotify's user interface using HTML and CSS.
 
 - Solved 160+ DSA problems on LeetCode.
 - Ranked among the Top 400 participants in LeetCode Weekly Contests.
-- Completed a four-month MERN Stack development internship at SuprMentr Technologies Pvt. Ltd.
+- Developed and deployed multiple full-stack web applications.
+
+---
+
+## 📚 Certifications & Courses
+
+- **Full Stack Web Development (MERN) — Apna College** (Jan 2025 – May 2025)
+  - Five-month course covering MongoDB, Express.js, React.js, Node.js, REST APIs, and deployment.
 
 ---
 
