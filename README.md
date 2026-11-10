@@ -35,13 +35,11 @@
 
 ## 📦 DevOps & Deployment – Currently Learning
 
-Currently exploring the fundamentals of modern application deployment and infrastructure through introductory coursework.
+*Currently exploring the fundamentals of modern application deployment and infrastructure through coursework.*
 
-- **Docker:** Basic understanding of containerization and Docker fundamentals.
-- **CI/CD:** Familiar with the concepts of Continuous Integration and Continuous Delivery.
-- **Kubernetes:** Introduction to container orchestration and container management.
-
-*Note: The above topics are currently at the theoretical learning stage. Hands-on implementation is yet to be completed.*
+- **Docker:** Understanding Containerization and Docker fundamentals.
+- **CI/CD:** Familiar with the concepts of Continuous Integration and Continuous Delivery, and automated deployment workflows.
+- **Kubernetes:** Understanding Container orchestration and container management by managing containerized applications.
 
 ---
 
